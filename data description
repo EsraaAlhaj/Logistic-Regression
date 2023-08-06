@@ -1,0 +1,12 @@
+The data set contains a sample of orders from Diogo's Delicious Chocolate Company in the last months. Here is an overview of the variables:
+
+order_mumber - unique identifier for the order.
+gender - customer gender: male, female or not identified
+age_group - age of the customer grouped
+new_customer - binary variable identifying if it is the first time the customer purchases
+fast_delivery - binary variable flagging if the customer purchased a faster delivery method for their order
+loyalty_program - binary variable that flags if the customer is part of the loyalty program which provides quicker delivery and other premium services
+discount_rate - average discount applied to the order
+average_item_value - the average price for each item in the order
+items_per_order - the number of items per order
+profit - the profit for each order
